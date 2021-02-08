@@ -1,0 +1,5 @@
+ols-MacBook-Pro:~ olbo$ sudo nano /etc/hosts
+Password:
+ols-MacBook-Pro:~ olbo$ sudo killall -HUP mDNSResponder
+Password:
+ols-MacBook-Pro:~ olbo$
